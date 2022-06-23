@@ -1,4 +1,4 @@
-module github.com/nickname76lib/qiwip2p
+module github.com/nickname76/qiwip2p
 
 go 1.18
 
