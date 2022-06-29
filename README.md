@@ -38,7 +38,7 @@ func main() {
 		log.Fatalf("Ошибка: %w", err)
 	}
 
-	log.Panicln(bill)
+	log.Println(bill)
 }
 
 ```
