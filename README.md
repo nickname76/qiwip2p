@@ -1,5 +1,7 @@
 # Qiwi P2P-счета
 
+![image](https://user-images.githubusercontent.com/41116859/189553891-97964905-d153-42a0-8e11-b57a8d304a97.png)
+
 Библиотека для работы с Qiwi P2P-счетами. Поддерживает создание ссылок для создания счёта на стороне клиента и непосредственную работу с API P2P-счетов.
 
 Документация P2P-счетов: https://developer.qiwi.com/ru/p2p-payments/
