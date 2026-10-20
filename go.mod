@@ -1,6 +1,6 @@
 module github.com/nickname76/qiwip2p
 
-go 1.18
+go 1.24
 
 require (
 	github.com/google/go-querystring v1.1.0
@@ -10,7 +10,7 @@ require (
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
-	github.com/klauspost/compress v1.15.12 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
